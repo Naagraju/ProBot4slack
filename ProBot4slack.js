@@ -554,7 +554,7 @@ web.chat.postMessage({
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "*Hours Billing info:*\n\n*<www.google.com|ILC>*\n*<https://ibmade.changepointasp.com/|Changepoint>*\n *<https://time.ibm.com/|Time@IBM>*"
+				"text": "*Hours Billing info:*\n\n*<www.google.com|>*\n*<any url>*\n *<any url>*"
 			},
 			"accessory": {
 				"type": "image",
@@ -569,7 +569,7 @@ web.chat.postMessage({
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "*Trining urls info:*\n\n*<https://yourlearning.ibm.com/|Your Learning>*\n*<https://lexicon.in.ibm.com/Synergy/|Lexicon>*"
+				"text": "*Trining urls info:*\n\n*<any usefull training urls>*\n*<>*"
 			},
 			"accessory": {
 				"type": "image",
@@ -584,7 +584,7 @@ web.chat.postMessage({
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "*Learning Resources info*\n\n*<http://w3.ibm.com/academy|IBM Academy>*\n*<https://learning.oreilly.com/home/|Oreilly Learning>*"
+				"text": "*Learning Resources info*\n\n*<learning related urls>*\n*<https://learning.oreilly.com/home/|Oreilly Learning>*"
 			},
 			"accessory": {
 				"type": "image",
